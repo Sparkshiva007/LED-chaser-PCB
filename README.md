@@ -75,3 +75,6 @@ Circuit concept inspired by the classic LED chaser project found in many electro
 ## 📄 License
 
 Open-source hardware. You are free to modify, improve, or manufacture the board for personal or educational use.
+
+---
+images/PCB 3D view.png

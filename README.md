@@ -66,7 +66,7 @@ Perfect for hobbyists, students, or anyone getting started with PCB design!
 
 ---
 
-## 🙏 Credits
+## Credits
 
 Circuit concept inspired by the classic LED chaser project found in many electronics books. This version was fully re-created in KiCad by **Shiva Projects** for educational use.
 
